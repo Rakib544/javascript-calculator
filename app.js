@@ -7,8 +7,6 @@ const clothsCost = document.getElementById("cloth");
 const calculateBtn = document.getElementById("calculate-btn");
 const savingBtn = document.getElementById("save-btn");
 
-// new comment
-
 let balance;
 
 function calculateIncome() {
