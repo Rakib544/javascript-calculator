@@ -90,5 +90,3 @@ function removeValidationError() {
 
 calculateBtn.addEventListener("click", calculateIncome);
 savingBtn.addEventListener("click", calculateSaving);
-
-// comment
